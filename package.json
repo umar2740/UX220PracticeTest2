@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vite": "latest",
+    "glob": "latest",
+    "vite-plugin-static-copy": "latest",
+    "diy-pwa": "latest"
+  },
+  "scripts": {
+    "dev": "vite dev",
+    "start": "vite dev",
+    "build": "vite build"
+  },
+  "type": "module"
+}
